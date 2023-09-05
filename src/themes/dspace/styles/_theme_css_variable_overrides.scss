@@ -13,7 +13,6 @@
 
   --ds-banner-text-background: rgba(0, 0, 0, 0.45);
   --ds-banner-background-gradient-width: 300px;
-
   --ds-header-navbar-border-bottom-height: 5px;
 
   /* set the next two properties as `--ds-header-navbar-border-bottom-*`
@@ -21,4 +20,10 @@
   --ds-expandable-navbar-border-top-color: #{$white};
   --ds-expandable-navbar-border-top-height: 0;
   --ds-expandable-navbar-padding-top: 0;
+
+  --ds-home-news-link-color: #{$parat};
+  --ds-home-news-link-hover-color: #{darken($parat, 15%)};
+  --ds-header-navbar-border-bottom-color: #{$parat};
+  --ds-navbar-link-color: #{$parat};
+  --ds-breadcrumb-link-color: #{$parat};
 }

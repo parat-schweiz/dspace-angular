@@ -45,13 +45,13 @@ $font-family-sans-serif: 'Nunito', -apple-system, BlinkMacSystemFont, "Segoe UI"
 //$cyan:    #17a2b8 !default;
 
 // Define or override other colors here
-// ...
+$parat: #a40771 !default;
 
 // Override semantic colors here
 $primary:   #43515f;  // Gray
 $secondary: #495057;  // As Bootstrap $gray-700
 $success:   #92c642;  // Lime
-$info:      #207698;  // Light blue
+$info: 		$parat;
 $warning:   #ec9433;  // Orange
 $danger:    #cf4444;  // Red
 $light:     #f8f9fa;  // As Bootstrap $gray-100

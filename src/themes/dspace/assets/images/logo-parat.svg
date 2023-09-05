@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="609.74774"
+   height="91.135994"
+   viewBox="0 0 609.74774 91.135994"
+   sodipodi:docname="Logo_Parat_Std_NoMargin.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.259951"
+     inkscape:cx="304.87387"
+     inkscape:cy="45.57621"
+     inkscape:current-layer="text16">
+    <inkscape:page
+       x="0"
+       y="0"
+       id="page8"
+       width="609.74774"
+       height="91.135994" />
+  </sodipodi:namedview>
+  <g
+     id="g10"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
+     transform="matrix(1.3333333,0,0,1.3333333,0,2.2783999e-6)">
+    <g
+       id="g12">
+      <g
+         aria-label="PARAT"
+         transform="translate(104.3188,68.352002)"
+         id="text16"
+         style="font-weight:bold;font-size:96px;font-family:'Montserrat Alternates';-inkscape-font-specification:MontserratAlternates-Bold;fill:#a40871">
+        <path
+           d="M 37.056,-67.2 H 7.968 V 0 H 23.52 v -18.528 h 13.536 c 17.952,0 29.184,-9.312 29.184,-24.288 0,-15.072 -11.232,-24.384 -29.184,-24.384 z m -0.864,36 H 23.52 v -23.328 h 12.672 c 9.504,0 14.304,4.32 14.304,11.712 0,7.296 -4.8,11.616 -14.304,11.616 z"
+           id="path282" />
+        <path
+           d="m 106.56,-68.352 c -18.432003,0 -30.816003,11.136 -30.816003,31.584 V 0 h 15.36 V -16.128 H 121.824 V 0 h 15.552 v -36.768 c 0,-20.448 -12.384,-31.584 -30.816,-31.584 z m -15.456003,39.744 v -9.6 c 0,-11.424 6.048,-16.896 15.360003,-16.896 9.216,0 15.36,5.472 15.36,16.896 v 9.6 z"
+           id="path284" />
+        <path
+           d="m 212.25599,0 -15.072,-21.6 c 8.736,-3.744 13.824,-11.136 13.824,-21.216 0,-15.072 -11.232,-24.384 -29.184,-24.384 h -29.088 V 0 h 15.552 v -18.72 h 13.536 0.768 l 12.96,18.72 z m -16.992,-42.816 c 0,7.296 -4.8,11.712 -14.304,11.712 h -12.672 v -23.424 h 12.672 c 9.504,0 14.304,4.32 14.304,11.712 z"
+           id="path286" />
+        <path
+           d="m 253.536,-68.352 c -18.432,0 -30.816,11.136 -30.816,31.584 V 0 h 15.36 V -16.128 H 268.8 V 0 h 15.552 v -36.768 c 0,-20.448 -12.384,-31.584 -30.816,-31.584 z m -15.456,39.744 v -9.6 c 0,-11.424 6.048,-16.896 15.36,-16.896 9.216,0 15.36,5.472 15.36,16.896 v 9.6 z"
+           id="path288" />
+        <path
+           d="m 352.992,-60 c -9.216,-5.568 -20.352,-8.352 -31.68,-8.352 -11.232,0 -22.272,2.784 -31.584,8.352 l 5.28,11.616 c 5.856,-3.36 12,-5.472 18.624,-6.432 V 0 h 15.552 v -54.816 c 6.72,0.96 12.768,3.072 18.528,6.432 z"
+           id="path290" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="translate(-4.25,80.932001)"
+         style="font-variant:normal;font-weight:bold;font-size:170px;font-family:'Montserrat Alternates';-inkscape-font-specification:MontserratAlternates-Bold;writing-mode:lr-tb;fill:#a40871;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text20"><tspan
+           x="0"
+           y="0"
+           id="tspan18">»</tspan></text>
+    </g>
+  </g>
+</svg>
