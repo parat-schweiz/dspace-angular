@@ -1633,6 +1633,15 @@
   // "cookies.consent.decline": "Decline",
   "cookies.consent.decline": "Ablehnen",
 
+  // "cookies.consent.ok": "That's ok",
+  "cookies.consent.ok": "Einverstanden",
+
+  // "cookies.consent.save": "Save",
+  "cookies.consent.save": "Speichern",
+
+  // "cookies.consent.content-notice.title": "Cookie Consent",
+  "cookies.consent.content-notice.title": "Zustimmung zu Cookies",
+
   // "cookies.consent.content-notice.description": "We collect and process your personal information for the following purposes: <strong>Authentication, Preferences, Acknowledgement and Statistics</strong>. <br/> To learn more, please read our {privacyPolicy}.",
   "cookies.consent.content-notice.description": "Wir sammeln und verarbeiten Ihre personenbezogenen Daten für die folgenden Zwecke: <strong>Authentifikation, Einstellungen, Zustimmungen und Statistiken</strong>. <br/> Um mehr zu erfahren, lesen Sie bitte unsere {privacyPolicy}.",
 
@@ -1643,7 +1652,7 @@
   "cookies.consent.content-modal.description": "Hier können Sie die Informationen, die wir über Sie sammeln, einsehen und anpassen.",
 
   // "cookies.consent.content-modal.privacy-policy.name": "privacy policy",
-  "cookies.consent.content-modal.privacy-policy.name": "Datenschutzbestimmungen",
+  "cookies.consent.content-modal.privacy-policy.name": "Datenschutzinformation",
 
   // "cookies.consent.content-modal.privacy-policy.text": "To learn more, please read our {privacyPolicy}.",
   "cookies.consent.content-modal.privacy-policy.text": "Um mehr zu erfahren, lesen Sie bitte unsere {privacyPolicy}.",
@@ -1651,7 +1660,11 @@
   // "cookies.consent.content-modal.title": "Information that we collect",
   "cookies.consent.content-modal.title": "Information, die wir sammeln",
 
+  // "cookies.consent.content-modal.services": "services",
+  "cookies.consent.content-modal.services": "Dienste",
 
+  // "cookies.consent.content-modal.service": "service",
+  "cookies.consent.content-modal.service": "Dienst",
 
   // "cookies.consent.app.title.authentication": "Authentication",
   "cookies.consent.app.title.authentication": "Authentifizierung",
@@ -1932,10 +1945,10 @@
   "footer.link.cookies": "Cookie-Einstellungen",
 
   // "footer.link.privacy-policy": "Privacy policy",
-  "footer.link.privacy-policy": "Datenschutzbestimmungen",
+  "footer.link.privacy-policy": "Datenschutzinformation",
 
   // "footer.link.end-user-agreement":"End User Agreement",
-  "footer.link.end-user-agreement": "Endnutzervereinbarung",
+  "footer.link.end-user-agreement": "Nutzungsbestimmungen",
 
 
 

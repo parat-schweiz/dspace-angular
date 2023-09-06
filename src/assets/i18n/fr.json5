@@ -1805,10 +1805,10 @@
   "cookies.consent.content-modal.description": "Vous pouvez voir et personnaliser ici les données que nous recueillons à votre sujet.",
 
   // "cookies.consent.content-modal.privacy-policy.name": "privacy policy",
-  "cookies.consent.content-modal.privacy-policy.name": "politique de protection de la vie privée",
+  "cookies.consent.content-modal.privacy-policy.name": "protection des données",
 
   // "cookies.consent.content-modal.privacy-policy.text": "To learn more, please read our {privacyPolicy}.",
-  "cookies.consent.content-modal.privacy-policy.text": "Pour plus d'informations, veuillez lire notre {privacyPolicy}.",
+  "cookies.consent.content-modal.privacy-policy.text": "Pour plus d'informations, veuillez lire notre information sur la protection des données.",
 
   // "cookies.consent.content-modal.title": "Information that we collect",
   "cookies.consent.content-modal.title": "Données collectées",
@@ -2081,7 +2081,7 @@
   "footer.link.privacy-policy": "Politique de protection de la vie privée",
 
   // "footer.link.end-user-agreement":"End User Agreement",
-  "footer.link.end-user-agreement": "Licence de l'utilisateur final",
+  "footer.link.end-user-agreement": "Conditions de service",
 
   // "footer.link.feedback":"Send Feedback",
   "footer.link.feedback": "Envoyer un commentaire",
